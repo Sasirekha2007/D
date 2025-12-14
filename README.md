@@ -1,4 +1,4 @@
-<img width="460" height="273" alt="Screenshot 2025-12-14 175723" src="https://github.com/user-attachments/assets/ec254f6b-564a-4149-a683-045ddef16169" />AIM:
+AIM:
 
 To implement D flipflop using verilog and validating their functionality using their functional tables
 
